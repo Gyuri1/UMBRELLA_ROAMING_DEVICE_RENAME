@@ -2,7 +2,7 @@
 
 With this script you can rename the Cisco Umbrella Roaming Devices.
 
-It requires python version 3.
+It requires python version 3.x.
 
-Please update KEY, SECRET and ORGID parameters.
+Please update KEY, SECRET and ORGID parameters!
 
